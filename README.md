@@ -155,12 +155,8 @@ Spring Boot application exploring AI-powered capabilities through backend APIs a
 ### 💼 Employer?
 
 > [!IMPORTANT]
-> I'm currently open to **Software Engineering / Java Backend opportunities**.
 >
 > 📄 **[Download my Resume](https://drive.google.com/file/d/1ohFW9gn1WCnC3mwfTLambscSgxOkEHdc/view?usp=drive_link)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B949E&height=120&section=footer" alt="footer"/>
 
-<!--
-    Thanks for visiting! ❤️
--->
