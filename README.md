@@ -139,10 +139,11 @@ Spring Boot application exploring AI-powered capabilities through backend APIs a
 
 <div>
     <a href="https://linkedin.com/in/13roshan">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    <img src="https://img.icons8.com/color/48/linkedin.png"
          alt="LinkedIn"
          width="35"
          height="35"/>
+</a>
 </a>
     </a>
 </div>
