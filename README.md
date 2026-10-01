@@ -3,10 +3,10 @@
     Good to see you 👋
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B949E&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=600&lines=Hello%2C+it's+Roshan+Pathak;Java+Backend+Developer;Building+with+Java+%26+Spring+Boot;Exploring+AI-powered+Applications" alt="Java Backend Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8B949E&width=600&lines=Hello%2C+it's+Roshan+Pathak;Java+Backend+Developer;Building+with+Java+%26+Spring+Boot;Exploring+AI-powered+Applications" alt="Java Backend Developer"/>
 </a>
 
 <br><br>
@@ -58,7 +58,7 @@ Spring Boot backend for an e-commerce application with RESTful APIs, authenticat
 </p>
 
 <a href="https://github.com/roshanpathak07/ecommerce-backend-springboot">
-  <img src="https://img.shields.io/badge/View%20Project-D9BED1?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
 </a>
 
 </td>
@@ -74,7 +74,7 @@ Backend application for managing patients, doctors and hospital workflows using 
 </p>
 
 <a href="https://github.com/roshanpathak07/hospital-management-system">
-  <img src="https://img.shields.io/badge/View%20Project-D9BED1?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
 </a>
 
 </td>
@@ -92,7 +92,7 @@ RESTful Spring Boot application for managing tourist destinations and bookings w
 </p>
 
 <a href="https://github.com/roshanpathak07/tourist-management-system">
-  <img src="https://img.shields.io/badge/View%20Project-D9BED1?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
 </a>
 
 </td>
@@ -108,7 +108,7 @@ Spring Boot application exploring AI-powered capabilities through backend APIs a
 </p>
 
 <a href="https://github.com/roshanpathak07/smart-ai-research-assistant">
-  <img src="https://img.shields.io/badge/View%20Project-D9BED1?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
 </a>
 
 </td>
@@ -123,9 +123,9 @@ Spring Boot application exploring AI-powered capabilities through backend APIs a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roshanpathak07&show_icons=true&hide_border=true&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roshanpathak07&show_icons=true&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=ffffff&bg_color=00000000" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpathak07&layout=compact&hide_border=true&title_color=D9BED1&text_color=ffffff&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpathak07&layout=compact&hide_border=true&title_color=8B949E&text_color=ffffff&bg_color=00000000" height="165"/>
 
 </div>
 
@@ -139,12 +139,10 @@ Spring Boot application exploring AI-powered capabilities through backend APIs a
 
 <div>
     <a href="https://linkedin.com/in/13roshan">
-    <img src="https://img.icons8.com/color/48/linkedin.png"
-         alt="LinkedIn"
-         width="35"
-         height="35"/>
-</a>
-</a>
+        <img src="https://img.icons8.com/color/48/linkedin.png"
+             alt="LinkedIn"
+             width="35"
+             height="35"/>
     </a>
 </div>
 
@@ -161,7 +159,7 @@ Spring Boot application exploring AI-powered capabilities through backend APIs a
 >
 > 📄 **[Download my Resume](https://drive.google.com/file/d/1ohFW9gn1WCnC3mwfTLambscSgxOkEHdc/view?usp=drive_link)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B949E&height=120&section=footer" alt="footer"/>
 
 <!--
     Thanks for visiting! ❤️
