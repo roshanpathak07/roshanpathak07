@@ -58,7 +58,11 @@ Spring Boot backend for an e-commerce application with RESTful APIs, authenticat
 </p>
 
 <a href="https://github.com/roshanpathak07/ecommerce-backend-springboot">
-  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img
+    src="https://img.shields.io/badge/View%20Project-21262D?style=for-the-badge&logo=github&logoColor=8B949E&labelColor=161B22"
+    alt="View Project"
+    style="border-radius: 10px;"
+  />
 </a>
 
 </td>
@@ -74,7 +78,11 @@ Backend application for managing patients, doctors and hospital workflows using 
 </p>
 
 <a href="https://github.com/roshanpathak07/hospital-management-system">
-  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img
+    src="https://img.shields.io/badge/View%20Project-21262D?style=for-the-badge&logo=github&logoColor=8B949E&labelColor=161B22"
+    alt="View Project"
+    style="border-radius: 10px;"
+  />
 </a>
 
 </td>
@@ -92,7 +100,11 @@ RESTful Spring Boot application for managing tourist destinations and bookings w
 </p>
 
 <a href="https://github.com/roshanpathak07/tourist-management-system">
-  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img
+    src="https://img.shields.io/badge/View%20Project-21262D?style=for-the-badge&logo=github&logoColor=8B949E&labelColor=161B22"
+    alt="View Project"
+    style="border-radius: 10px;"
+  />
 </a>
 
 </td>
@@ -108,7 +120,11 @@ Spring Boot application exploring AI-powered capabilities through backend APIs a
 </p>
 
 <a href="https://github.com/roshanpathak07/smart-ai-research-assistant">
-  <img src="https://img.shields.io/badge/View%20Project-8B949E?style=for-the-badge&logo=github&logoColor=111111"/>
+  <img
+    src="https://img.shields.io/badge/View%20Project-21262D?style=for-the-badge&logo=github&logoColor=8B949E&labelColor=161B22"
+    alt="View Project"
+    style="border-radius: 10px;"
+  />
 </a>
 
 </td>
